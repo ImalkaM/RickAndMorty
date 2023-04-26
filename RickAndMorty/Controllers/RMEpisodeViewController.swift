@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// controller to show and Episode for Characters
 final class RMEpisodeViewController: UIViewController {
 
     override func viewDidLoad() {

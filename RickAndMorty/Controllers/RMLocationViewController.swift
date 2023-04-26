@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// controller to show and location for Characters
 final class RMLocationViewController: UIViewController {
 
     override func viewDidLoad() {

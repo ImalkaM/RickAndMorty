@@ -7,6 +7,8 @@
 
 import UIKit
 
+
+/// controller to handle bottom tab bar and root controllers
 final class RMTabViewController: UITabBarController {
 
     override func viewDidLoad() {
