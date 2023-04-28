@@ -7,7 +7,7 @@
 
 import UIKit
 
-/// controller to show search
+/// Controller to show search
 class RMSettingsViewController: UIViewController {
 
     override func viewDidLoad() {
